@@ -1,1 +1,1 @@
-# CTF-NOTES
+# STUDY-NOTES
